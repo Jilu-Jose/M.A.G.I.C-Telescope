@@ -1,8 +1,6 @@
 # Magic Telescope Gamma & Hadron Event Classifier
 
-![Magic Telescope Logo](https://upload.wikimedia.org/wikipedia/commons/0/05/MAGIC_Telescope_-_La_Palma.JPG) <!-- Optional, replace with your logo -->
-
-** Deployed App: 
+## Deployed App: 
 https://magic-telescope.streamlit.app/
 
 ## Overview
